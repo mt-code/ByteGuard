@@ -1,0 +1,4 @@
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Pipes\bin\Release\ByteGuard.Pipes.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Pipes\bin\Release\ByteGuard.Pipes.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Pipes\obj\Release\ByteGuard.Pipes.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Pipes\obj\Release\ByteGuard.Pipes.pdb

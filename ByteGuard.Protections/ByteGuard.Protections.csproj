@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E50723D6-4A14-4C72-9EB6-D3557CFDD921}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ByteGuard.Protections</RootNamespace>
+    <AssemblyName>ByteGuard.Protections</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Online\Anti\Tamper.cs" />
+    <Compile Include="EmptyType.cs" />
+    <Compile Include="Helper.cs" />
+    <Compile Include="Miscellaneous\PEReader.cs" />
+    <Compile Include="Online\Anti\Reflector.cs" />
+    <Compile Include="Online\ConstantProtections.cs" />
+    <Compile Include="Online\ControlFlowProtection.cs" />
+    <Compile Include="Online\ProtectionWriter.cs" />
+    <Compile Include="Online\Runtime\ByteGuardAntiTamper.cs" />
+    <Compile Include="Online\Runtime\ByteGuardAntiTamperDynamic.cs" />
+    <Compile Include="Online\Runtime\JIT\ByteGuardAntiTamperJIT.cs" />
+    <Compile Include="Online\ProtectionHelper.cs" />
+    <Compile Include="Online\Protections.cs" />
+    <Compile Include="Online\Runtime\ByteGuardConstantProtections.cs" />
+    <Compile Include="Online\Runtime\ByteGuardCore.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Online\Runtime\ByteGuardHelper.cs" />
+    <Compile Include="Online\Runtime\JIT\EmptyTypeJIT.cs" />
+    <Compile Include="Online\StringProtections.cs" />
+    <Compile Include="PEData.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Offline\Runtime\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ByteGuard.Engine\ByteGuard.Engine.csproj">
+      <Project>{92b4a37b-0000-4914-8c82-da6867023111}</Project>
+      <Name>ByteGuard.Engine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ByteGuard.Helper\ByteGuard.Helper.csproj">
+      <Project>{16507947-e648-43e6-9611-c23f0d1d9a29}</Project>
+      <Name>ByteGuard.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ByteGuard.PEReader\ByteGuard.PEReader.csproj">
+      <Project>{af159491-58f6-4953-87f2-dfe6664c2563}</Project>
+      <Name>ByteGuard.PEReader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ByteGuard.Pipes\ByteGuard.Pipes.csproj">
+      <Project>{029ec3ca-b61f-4d2c-8ff8-0bd6dd0c76c1}</Project>
+      <Name>ByteGuard.Pipes</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Matthew\dnlib\src\dnlib.csproj">
+      <Project>{fdfc1237-143f-4919-8318-4926901f4639}</Project>
+      <Name>dnlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Matthew\SharpZipLib\src\ICSharpCode.SharpZLib.csproj">
+      <Project>{0e7413ff-eb9e-4714-acf2-be3a6a7b2ffd}</Project>
+      <Name>ICSharpCode.SharpZLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Matthew\SJITHook\SJITHook\SJITHook.csproj">
+      <Project>{eca2d8f0-df33-4723-84cb-f4d8cd03a321}</Project>
+      <Name>SJITHook</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Online\Runtime\ByteGuardStringProtections.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\marketplace_readme.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\selfdist_byteguard_readme.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\selfdist_custom_readme.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Online\AntiTamperJIT.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

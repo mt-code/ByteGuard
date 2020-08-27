@@ -1,0 +1,8 @@
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Updater\bin\Release\ByteGuard.Updater.exe
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Updater\bin\Release\ByteGuard.Updater.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Updater\obj\Release\ByteGuard.Updater.csprojResolveAssemblyReference.cache
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Updater\obj\Release\ByteGuard.Updater.csproj.GenerateResource.Cache
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Updater\obj\Release\ByteGuard.Updater.exe
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Updater\obj\Release\ByteGuard.Updater.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Updater\obj\Release\ByteGuard.Tasks.UpdaterForm.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Updater\obj\Release\ByteGuard.Tasks.Properties.Resources.resources

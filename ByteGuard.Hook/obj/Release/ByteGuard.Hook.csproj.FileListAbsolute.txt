@@ -1,0 +1,5 @@
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Hook\obj\Release\ByteGuard.Hook.csprojResolveAssemblyReference.cache
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Hook\bin\Release\ByteGuard.Hook.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Hook\bin\Release\ByteGuard.Hook.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Hook\obj\Release\ByteGuard.Hook.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Hook\obj\Release\ByteGuard.Hook.pdb

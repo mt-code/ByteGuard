@@ -1,0 +1,10 @@
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\MergeTest\bin\Release\MergeTest.exe
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\MergeTest\bin\Release\MergeTest.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\MergeTest\bin\Release\ByteGuard.Engine.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\MergeTest\bin\Release\dnlib.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\MergeTest\bin\Release\ByteGuard.Engine.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\MergeTest\bin\Release\dnlib.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\MergeTest\bin\Release\dnlib.xml
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\MergeTest\obj\Release\MergeTest.exe
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\MergeTest\obj\Release\MergeTest.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\MergeTest\obj\Release\MergeTest.csprojResolveAssemblyReference.cache

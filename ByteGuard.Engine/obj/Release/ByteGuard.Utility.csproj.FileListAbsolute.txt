@@ -1,0 +1,8 @@
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Merge\bin\Release\ByteGuard.Merge.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Merge\bin\Release\ByteGuard.Merge.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Merge\bin\Release\dnlib.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Merge\bin\Release\dnlib.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Merge\bin\Release\dnlib.xml
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Merge\obj\Release\ByteGuard.Utility.csprojResolveAssemblyReference.cache
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Merge\obj\Release\ByteGuard.Merge.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Merge\obj\Release\ByteGuard.Merge.pdb

@@ -1,0 +1,3 @@
+Environment.Exit(X):
+
+0 = User didn't accept the EULA.

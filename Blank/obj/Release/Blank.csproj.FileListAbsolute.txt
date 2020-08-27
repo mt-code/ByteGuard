@@ -1,0 +1,14 @@
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\bin\Release\Blank.exe
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\bin\Release\Blank.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\obj\Release\Blank.exe
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\obj\Release\Blank.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\bin\Release\ByteGuard.PEReader.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\bin\Release\ByteGuard.PEReader.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\obj\Release\Blank.csprojResolveAssemblyReference.cache
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\bin\Release\dnlib.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\bin\Release\dnlib.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\bin\Release\dnlib.xml
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\bin\Release\ByteGuard.Helper.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\bin\Release\ByteGuard.Pipes.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\bin\Release\ByteGuard.Helper.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\Blank\bin\Release\ByteGuard.Pipes.pdb

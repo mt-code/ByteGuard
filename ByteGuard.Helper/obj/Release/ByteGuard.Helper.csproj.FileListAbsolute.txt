@@ -1,0 +1,14 @@
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Helper\bin\Release\ByteGuard.Helper.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Helper\bin\Release\ByteGuard.Helper.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Helper\bin\Release\ByteGuard.Pipes.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Helper\bin\Release\ByteGuard.Pipes.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Helper\obj\Release\ByteGuard.Helper.csprojResolveAssemblyReference.cache
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Helper\obj\Release\ByteGuard.Helper.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Helper\obj\Release\ByteGuard.Helper.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Helper\bin\Release\ByteGuard.Helper.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Helper\bin\Release\ByteGuard.Helper.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Helper\bin\Release\ByteGuard.Pipes.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Helper\bin\Release\ByteGuard.Pipes.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Helper\obj\Release\ByteGuard.Helper.csprojResolveAssemblyReference.cache
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Helper\obj\Release\ByteGuard.Helper.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Helper\obj\Release\ByteGuard.Helper.pdb

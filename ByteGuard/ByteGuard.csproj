@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{34729AA6-4E2E-4C72-8DD1-7085A1FB46D5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ByteGuard</RootNamespace>
+    <AssemblyName>ByteGuard</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ByteGuardIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ByteGuardInterface\Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\Forms\BlankForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\Forms\BlankForm.Designer.cs">
+      <DependentUpon>BlankForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\Globals\Methods.cs" />
+    <Compile Include="ByteGuardInterface\Globals\Variables.cs" />
+    <Compile Include="ByteGuardInterface\Theme\LineSeparator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\Theme\LineSeparator.Designer.cs">
+      <DependentUpon>LineSeparator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\Theme\TabControlLeft.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\Theme\TabControlTop.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\Theme\ThemeContainer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\Theme\VerticalLineSeparator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\Theme\VerticalLineSeparatorBlack.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\Theme\VerticalLineSeparatorBlack.Designer.cs">
+      <DependentUpon>VerticalLineSeparatorBlack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyAccount\ActivateAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyAccount\ActivateAccount.Designer.cs">
+      <DependentUpon>ActivateAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyLibrary\MarketplaceApplication.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyLibrary\MarketplaceApplication.Designer.cs">
+      <DependentUpon>MarketplaceApplication.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyLibrary\MarketplaceDefault.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyLibrary\MarketplaceDefault.Designer.cs">
+      <DependentUpon>MarketplaceDefault.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyLibrary\ProgramDownloader.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyLibrary\ProgramDownloader.Designer.cs">
+      <DependentUpon>ProgramDownloader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\AddAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\AddAdmin.Designer.cs">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\AddVariable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\AddVariable.Designer.cs">
+      <DependentUpon>AddVariable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyAccount\ChangeAvatar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyAccount\ChangeAvatar.Designer.cs">
+      <DependentUpon>ChangeAvatar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyAccount\ChangePassword.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyAccount\ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\Analytics.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\Analytics.Designer.cs">
+      <DependentUpon>Analytics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\ChangeMarketplaceImage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\ChangeMarketplaceImage.Designer.cs">
+      <DependentUpon>ChangeMarketplaceImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\RegisterProgram.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\RegisterProgram.Designer.cs">
+      <DependentUpon>RegisterProgram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\UploadProgram.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\UploadProgram.Designer.cs">
+      <DependentUpon>UploadProgram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\Other\CreateAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\Other\CreateAccount.Designer.cs">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\CreateLicense.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\CreateLicense.Designer.cs">
+      <DependentUpon>CreateLicense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\CreateProgram.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\CreateProgram.Designer.cs">
+      <DependentUpon>CreateProgram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyLibrary\LockDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyLibrary\LockDetails.Designer.cs">
+      <DependentUpon>LockDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\Other\Login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\Other\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\ManageProgramDefault.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\ManageProgramDefault.Designer.cs">
+      <DependentUpon>ManageProgramDefault.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\ModifyLicense.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\ModifyLicense.Designer.cs">
+      <DependentUpon>ModifyLicense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyAccount\MyAccountDefault.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyAccount\MyAccountDefault.Designer.cs">
+      <DependentUpon>MyAccountDefault.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyLibrary\MyLibraryDefault.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyLibrary\MyLibraryDefault.Designer.cs">
+      <DependentUpon>MyLibraryDefault.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\MyProgramsDefault.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\MyProgramsDefault.Designer.cs">
+      <DependentUpon>MyProgramsDefault.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\RedeemLicense.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyPrograms\RedeemLicense.Designer.cs">
+      <DependentUpon>RedeemLicense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyLibrary\ViewProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\MyLibrary\ViewProfile.Designer.cs">
+      <DependentUpon>ViewProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\Other\WebpagePreview.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ByteGuardInterface\UserControls\Other\WebpagePreview.Designer.cs">
+      <DependentUpon>WebpagePreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tasks\ByteGuardWebClient.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tasks\Licensing\Hwid.cs" />
+    <Compile Include="Tasks\Licensing\Licenses.cs" />
+    <Compile Include="Tasks\Licensing\Programs.cs" />
+    <Compile Include="Tasks\Network.cs" />
+    <EmbeddedResource Include="ByteGuardInterface\Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\Forms\BlankForm.resx">
+      <DependentUpon>BlankForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\Theme\ThemeContainer.resx">
+      <DependentUpon>ThemeContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\Theme\VerticalLineSeparatorBlack.resx">
+      <DependentUpon>VerticalLineSeparatorBlack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyAccount\ActivateAccount.resx">
+      <DependentUpon>ActivateAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyLibrary\MarketplaceApplication.resx">
+      <DependentUpon>MarketplaceApplication.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyLibrary\MarketplaceDefault.resx">
+      <DependentUpon>MarketplaceDefault.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyLibrary\ProgramDownloader.resx">
+      <DependentUpon>ProgramDownloader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyPrograms\AddAdmin.resx">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyPrograms\AddVariable.resx">
+      <DependentUpon>AddVariable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyAccount\ChangeAvatar.resx">
+      <DependentUpon>ChangeAvatar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyAccount\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyPrograms\Analytics.resx">
+      <DependentUpon>Analytics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyPrograms\ChangeMarketplaceImage.resx">
+      <DependentUpon>ChangeMarketplaceImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyPrograms\RegisterProgram.resx">
+      <DependentUpon>RegisterProgram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyPrograms\UploadProgram.resx">
+      <DependentUpon>UploadProgram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\Other\CreateAccount.resx">
+      <DependentUpon>CreateAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyPrograms\CreateLicense.resx">
+      <DependentUpon>CreateLicense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyPrograms\CreateProgram.resx">
+      <DependentUpon>CreateProgram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyLibrary\LockDetails.resx">
+      <DependentUpon>LockDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\Other\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyPrograms\ManageProgramDefault.resx">
+      <DependentUpon>ManageProgramDefault.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyPrograms\ModifyLicense.resx">
+      <DependentUpon>ModifyLicense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyAccount\MyAccountDefault.resx">
+      <DependentUpon>MyAccountDefault.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyLibrary\MyLibraryDefault.resx">
+      <DependentUpon>MyLibraryDefault.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyPrograms\MyProgramsDefault.resx">
+      <DependentUpon>MyProgramsDefault.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyPrograms\RedeemLicense.resx">
+      <DependentUpon>RedeemLicense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\MyLibrary\ViewProfile.resx">
+      <DependentUpon>ViewProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ByteGuardInterface\UserControls\Other\WebpagePreview.resx">
+      <DependentUpon>WebpagePreview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Tasks\Licensing\Variables.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ByteGuardIcon.ico" />
+    <None Include="Resources\marketplace_readme.txt" />
+    <None Include="Resources\Webpage Preview.png" />
+    <None Include="Resources\DefaultMarketplaceImage.png" />
+    <None Include="Resources\DefaultProgram.png" />
+    <None Include="Resources\ByteGuardDefaultProfileImage.png" />
+    <None Include="Resources\ByteGuardHeaderImage.png" />
+    <None Include="Resources\ByteGuardIcon.ico" />
+    <None Include="Resources\StatusWarning.png" />
+    <None Include="Resources\StatusTick.png" />
+    <None Include="Resources\StatusQuestion.png" />
+    <None Include="Resources\StatusInformation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ByteGuardInterface\UserControls\Store\" />
+    <Folder Include="ByteGuardProtection\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ByteGuard.Engine\ByteGuard.Engine.csproj">
+      <Project>{92b4a37b-0000-4914-8c82-da6867023111}</Project>
+      <Name>ByteGuard.Engine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ByteGuard.Helper\ByteGuard.Helper.csproj">
+      <Project>{16507947-e648-43e6-9611-c23f0d1d9a29}</Project>
+      <Name>ByteGuard.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ByteGuard.PEReader\ByteGuard.PEReader.csproj">
+      <Project>{af159491-58f6-4953-87f2-dfe6664c2563}</Project>
+      <Name>ByteGuard.PEReader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ByteGuard.Pipes\ByteGuard.Pipes.csproj">
+      <Project>{029ec3ca-b61f-4d2c-8ff8-0bd6dd0c76c1}</Project>
+      <Name>ByteGuard.Pipes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ByteGuard.Protections\ByteGuard.Protections.csproj">
+      <Project>{e50723d6-4a14-4c72-9eb6-d3557cfdd921}</Project>
+      <Name>ByteGuard.Protections</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ByteGuard.Updater\ByteGuard.Updater.csproj">
+      <Project>{4904c023-e8de-400a-92a4-15f7366e8da7}</Project>
+      <Name>ByteGuard.Updater</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Matthew\dnlib\src\dnlib.csproj">
+      <Project>{fdfc1237-143f-4919-8318-4926901f4639}</Project>
+      <Name>dnlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Matthew\SharpZipLib\src\ICSharpCode.SharpZLib.csproj">
+      <Project>{0e7413ff-eb9e-4714-acf2-be3a6a7b2ffd}</Project>
+      <Name>ICSharpCode.SharpZLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

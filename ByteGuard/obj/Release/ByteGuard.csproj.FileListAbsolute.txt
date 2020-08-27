@@ -1,0 +1,134 @@
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.csproj.GenerateResource.Cache
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.exe.config
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.exe
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.exe
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.csprojResolveAssemblyReference.cache
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\bin\Release\ByteGuard.exe.config
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.exe
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\bin\Release\ByteGuard.exe
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\bin\Release\ByteGuard.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.csprojResolveAssemblyReference.cache
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.csproj.GenerateResource.Cache
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Forms.BlankForm.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.Properties.Resources.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Forms.MainForm.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Theme.ThemeContainer.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Forms.EULAForm.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Theme.VerticalLineSeparatorBlack.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.Other.Login.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.Other.CreateAccount.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.MyProgramsDefault.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.CreateLicense.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.ManageProgram.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.CreateProgram.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.AddAdmin.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.AddVariable.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.ModifyLicense.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.RedeemLicense.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyAccount.ActivateAccount.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyAccount.MyAccountDefault.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyAccount.ChangeAvatar.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyAccount.ChangePassword.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.MyLibraryDefault.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.LockDetails.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuardOLD\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.ViewProfile.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Forms.EulaForm.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Forms.MainForm.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Forms.BlankForm.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Theme.ThemeContainer.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Theme.VerticalLineSeparatorBlack.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyAccount.ActivateAccount.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.AddAdmin.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.AddVariable.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyAccount.ChangeAvatar.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyAccount.ChangePassword.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.Other.CreateAccount.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.CreateLicense.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.CreateProgram.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.LockDetails.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.Other.Login.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.ModifyLicense.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyAccount.MyAccountDefault.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.MyLibraryDefault.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.MyProgramsDefault.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.RedeemLicense.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.ViewProfile.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.Properties.Resources.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.MarketplaceApplication.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.MarketplaceDefault.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Protections.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Protections.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Pipes.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Pipes.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Engine.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\dnlib.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Engine.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\dnlib.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\dnlib.xml
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.ManageProgramDefault.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.RegisterProgram.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.Other.WebpagePreview.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.ChangeMarketplaceImage.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\ICSharpCode.SharpZipLib.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\ICSharpCode.SharpZipLib.xml
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Helper.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Helper.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.UploadProgram.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.ProgramDownloader.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.exe.config
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.exe
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.exe
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Engine.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Helper.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Pipes.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Protections.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\dnlib.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ICSharpCode.SharpZipLib.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Engine.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Helper.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Pipes.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Protections.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\dnlib.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\dnlib.xml
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ICSharpCode.SharpZipLib.xml
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.csprojResolveAssemblyReference.cache
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Forms.MainForm.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Forms.BlankForm.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Theme.ThemeContainer.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.Theme.VerticalLineSeparatorBlack.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyAccount.ActivateAccount.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.MarketplaceApplication.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.MarketplaceDefault.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.ProgramDownloader.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.AddAdmin.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.AddVariable.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyAccount.ChangeAvatar.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyAccount.ChangePassword.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.ChangeMarketplaceImage.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.RegisterProgram.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.UploadProgram.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.Other.CreateAccount.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.CreateLicense.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.CreateProgram.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.LockDetails.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.Other.Login.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.ManageProgramDefault.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.ModifyLicense.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyAccount.MyAccountDefault.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.MyLibraryDefault.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.MyProgramsDefault.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.RedeemLicense.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyLibrary.ViewProfile.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.Other.WebpagePreview.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.Properties.Resources.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.csproj.GenerateResource.Cache
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Updater.exe
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.Updater.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.PEReader.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\bin\Release\ByteGuard.PEReader.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard\obj\Release\ByteGuard.ByteGuardInterface.UserControls.MyPrograms.Analytics.resources

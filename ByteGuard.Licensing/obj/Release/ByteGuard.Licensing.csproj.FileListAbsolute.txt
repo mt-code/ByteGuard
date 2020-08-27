@@ -1,0 +1,5 @@
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Licensing\bin\Release\ByteGuard.Licensing.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Licensing\bin\Release\ByteGuard.Licensing.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Licensing\obj\Release\ByteGuard.Licensing.csprojResolveAssemblyReference.cache
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Licensing\obj\Release\ByteGuard.Licensing.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Licensing\obj\Release\ByteGuard.Licensing.pdb

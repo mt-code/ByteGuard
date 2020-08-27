@@ -1,0 +1,5 @@
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.PEReader\obj\Release\ByteGuard.PEReader.csprojResolveAssemblyReference.cache
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.PEReader\bin\Release\ByteGuard.PEReader.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.PEReader\bin\Release\ByteGuard.PEReader.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.PEReader\obj\Release\ByteGuard.PEReader.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.PEReader\obj\Release\ByteGuard.PEReader.pdb

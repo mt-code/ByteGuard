@@ -1,0 +1,38 @@
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Protections.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Protections.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\obj\Release\ByteGuard.Protections.csprojResolveAssemblyReference.cache
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\obj\Release\ByteGuard.Protections.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\obj\Release\ByteGuard.Protections.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\dnlib.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\dnlib.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\dnlib.xml
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Pipes.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Pipes.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Engine.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Engine.pdb
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ICSharpCode.SharpZipLib.dll
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ICSharpCode.SharpZipLib.xml
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\obj\Release\ByteGuard.Protections.Properties.Resources.resources
+A:\Home\Programming\C#\ByteGuard\Final Projects\ByteGuard\ByteGuard.Protections\obj\Release\ByteGuard.Protections.csproj.GenerateResource.Cache
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Protections.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Protections.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Engine.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Pipes.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\dnlib.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ICSharpCode.SharpZipLib.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Engine.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Pipes.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\dnlib.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\dnlib.xml
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ICSharpCode.SharpZipLib.xml
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\obj\Release\ByteGuard.Protections.csprojResolveAssemblyReference.cache
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\obj\Release\ByteGuard.Protections.Properties.Resources.resources
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\obj\Release\ByteGuard.Protections.csproj.GenerateResource.Cache
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\obj\Release\ByteGuard.Protections.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\obj\Release\ByteGuard.Protections.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Helper.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.Helper.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\SJITHook.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\SJITHook.pdb
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.PEReader.dll
+A:\Home\Programming\C#\ByteGuard Software\Final Projects\ByteGuard\ByteGuard.Protections\bin\Release\ByteGuard.PEReader.pdb
